@@ -1,3 +1,4 @@
 # avro-consumer-app2
 Arvo Schema Evolution
-https://kubji.com/
+
+https://pixipanda.com/schema-evolution/
